@@ -1,2 +1,6 @@
-# multi-agent-system-inventory-quote-sales
-Multi-Agent System is a project built as part of a course on Agentic AI Systems. The goal was to design and implement a multi-agent system that automates three core business operations for a fictional paper supply company — inventory management, quote generation, and order fulfillment.
+# Multi-Agent System: Inventory management, Quote pricing, and Sales
+Multi-Agent System is a project implementing a multi-agent system that automates three core business operations for a fictional paper supply company — inventory management, quote generation, and order fulfillment
+
+The system uses a 4-agent architecture built with the smolagents framework. A central Orchestrator receives every incoming customer request and coordinates three specialist agents, each responsible for one domain of the business. All agents communicate through a shared SQLite database rather than passing state objects between each other — this means every agent always works from the most current data without any synchronisation overhead.
+
+The Inventory Agent monitors stock levels across all paper products and flags items that have fallen below their minimum reorder threshold. The Quoting Agent handles customer-facing price quotes — it checks stock availability, references historical quote data for pricing context, and applies a tiered discount structure based on order size. The Ordering Agent is the only agent that writes to the database — it confirms stock availability, records sale transactions, checks the company's cash position before restocking, and coordinates with the supplier to return delivery estimates.
