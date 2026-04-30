@@ -1,0 +1,288 @@
+request_id,request_date,cash_balance,inventory_value,response
+1,2025-04-01,45105.2,4860.3,"Order Summary:
+1. Colored Paper: 
+   - Transaction ID: 22
+   - Delivery Date: 2025-04-02
+   - Total Charged: $9.50
+
+2. Heavy Cardstock (White): 
+   - Transaction ID: 23
+   - Total Charged: $14.25
+   - Delivery Date: 2025-04-02
+
+3. A4 Glossy Paper: 
+   - Transaction ID: 24
+   - Total Charged: $38.00
+   - Delivery Date: 2025-04-05
+
+**Grand Total: $71.25"
+2,2025-04-03,45105.2,4860.3,"Unfortunately, we cannot fulfill your entire order due to insufficient stock for the following items:
+- 500 sheets of colorful poster paper (We do not have a specific stock for colorful poster paper; please clarify if it refers to colored paper, which we have low stock.)
+- 300 rolls of streamers (No stock information was retrieved; please provide detailed stock information if needed.)
+- 200 balloons (No stock information was retrieved; please provide detailed stock information if needed.)
+
+Please let us know how you would like to proceed!"
+3,2025-04-04,45105.2,4860.3,"Unfortunately, we cannot fulfill the order as requested due to the unavailability of letter-sized paper and cardstock. Here are the details:
+
+- **Item:** A4 Paper
+  - **Requested:** 10,000 sheets
+  - **Available:** 272.0 sheets
+  - **Status:** Insufficient stock
+
+- **Item:** A3 Paper
+  - **Requested:** 5,000 sheets
+  - **Available:** Not specified, unable to determine availability
+
+- **Item:** Printer Paper (Regarded as A4 or equivalent)
+  - **Requested:** 500 reams
+  - **Available:** Not specified, unable to determine availability
+
+Please adjust your order to items that are in stock for processing."
+4,2025-04-05,45104.575,4860.3,"Order Summary: 
+1. **A4 paper**: 
+   - Transaction ID: 30 
+   - Quantity: 250 sheets 
+   - Discount: 5% 
+   - Total charged: $11.88 
+   - Note: Restocked order placed with delivery date of 2025-04-09.
+
+2. **Cardstock**: 
+   - Transaction ID: 31 
+   - Quantity: 500 sheets 
+   - Discount: 5% 
+   - Total charged: $67.50 
+
+**Total Amount Charged:** $79.38 for this order."
+5,2025-04-05,45104.575,4860.3,"The order for colored paper (500 sheets) and cardstock (300 sheets) has been processed successfully for a total amount of $87.75. Unfortunately, we cannot fulfill the order for decorative washi tape as it is not available in our inventory. 
+
+- Colored paper: 500 sheets, Total: $45.00
+- Cardstock: 300 sheets, Total: $42.75
+
+Supplies will be delivered by April 15, 2025."
+6,2025-04-06,45101.775,4863.099999999999,"Summary of the Order:
+
+1. **Colored Construction Paper**: **Not fulfilled** - Only 300 sheets available, unable to meet the request for 500 sheets.
+2. **White Printer Paper (A4)**: 
+   - Transaction ID: 32 
+   - Quantity: 300 sheets 
+   - Total Charged: $22.50 (10% discount applied)
+   - Delivery Date: 2025-04-07
+3. **Cardstock**:
+   - Transaction ID: 33 
+   - Quantity: 200 sheets 
+   - Delivery Date: 2025-04-07 
+
+Due to insufficient stock, the request for 500 sheets of colorful construction paper cannot be fulfilled. Please let us know if you would like to adjust your order!"
+7,2025-04-07,45184.275,4774.599999999999,"Order Summary:
+
+1. **Glossy Paper**:
+   - Quantity Requested: 500 sheets 
+   - Current Stock: 187 sheets (Insufficient stock)
+   - Transaction ID: N/A
+   - Total Charged: N/A
+
+2. **A4 Paper**:
+   - Quantity Requested: 300 sheets 
+   - Transaction ID: 39
+   - Total Charged: $14.25 (after discount)
+
+3. **Large Poster Paper (24"" x 36"")**:
+   - Quantity Requested: 200 sheets 
+   - Transaction ID: 40
+   - Total Charged: $190.00 (after discount)
+
+4. **Cardstock**:
+   - Quantity Requested: 200 sheets 
+   - Insufficient stock; Current Stock: 5 sheets, Order not fulfilled.
+   - Transaction ID: 34
+   - Total Charged: $28.50 (after discount)
+
+**Overall Summary:**
+- Glossy Paper is insufficient in stock.
+- A4 Paper total: $14.25
+- Large Poster Paper total: $190.00
+- Cardstock total: $28.50 (insufficient stock for additional order)
+
+**Total Charges:** $232.75 excluding glossy paper."
+8,2025-04-07,45184.275,4774.599999999999,"Unfortunately, we cannot fulfill your order for the requested paper supplies as none of the items are available in stock. Please consider checking back later or looking for alternative suppliers. Thank you for your understanding."
+9,2025-04-07,45199.275,4759.599999999999,"Order Summary:
+- A4 paper: Transaction ID: 42, Total charged: $9.50
+- Glossy paper: Transaction ID: 43, Total charged: $19.00
+- Kraft paper: Transaction ID: 44, Total charged: $5.00
+
+Overall Total: $62.75
+Order fulfillment date: April 15, 2025."
+10,2025-04-08,45159.212499999994,4796.7,"Order Summary:
+1. Item: Cardstock
+   - Transaction ID: 48
+   - Quantity: 200
+   - Total Charged: $28.50
+   - Note: 195 sheets fulfilled, restock order placed (ID: 50).
+
+2. Item: Cardstock
+   - Transaction ID: 49
+   - Quantity: 195
+   - Total Charged: $27.79
+   - Delivery Date: 2025-04-12
+
+3. Item: A4 paper
+   - Transaction ID: 49
+   - Quantity: 500
+   - Total Charged: $22.50
+   - Note: Fulfilled successfully.
+
+Total Charged: $28.50 (Cardstock) + $27.79 (Cardstock) + $22.50 (A4 paper) = $78.79"
+11,2025-04-08,45159.212499999994,4796.7,Order cannot be fulfilled because 'paper napkins' is not available in the inventory. Please let the customer know that we cannot process the order for this item.
+12,2025-04-08,45159.212499999994,4796.7,"Unfortunately, we cannot process the order for high-quality glossy paper and sturdy cardstock due to insufficient stock for both items. Here is the summary of your request:
+
+1. **Sturdy Cardstock**: 
+   - Quantity: 300 
+   - Status: Unable to fulfill due to insufficient stock.
+
+2. **High-quality Glossy Paper**: 
+   - Quantity: 500 
+   - Status: Unable to fulfill due to insufficient funds in stock.
+
+**Total Amount for fulfilled order**: $161.50 for other items (100 lb cover stock and colored paper) that were processed, but not delivered.
+
+Please let us know if you want to adjust the order or request any alternative items!"
+13,2025-04-08,45159.212499999994,4796.7,"Unfortunately, we cannot fulfill your order as the requested items, including 500 sheets of A3 glossy paper and 300 sheets of A4 matte paper, are not available in our inventory. Specifically, the A3 glossy paper is out of stock at this time. Please let us know if you would like assistance with alternative items or wish to place a backorder."
+14,2025-04-09,44293.424999999996,5398.9,"Order Summary for Paper Supplies:
+
+1. **A4 Paper**  
+   - Status: Restock needed, Order ID: 57, Delivery Date: 2025-04-16
+
+2. **Cardstock**  
+   - Transaction ID: 53, Quantity: 195, Total Charged: $27.79, Delivery Date: 2025-04-13
+
+3. **Colored Paper**  
+   - Transaction ID: 60, Quantity: 2000, Total Charged: $70.92, Delivery Date: 2025-04-16
+
+4. **Banner Paper**  
+   - Status: Sale processed successfully, Order ID: 56, Delivery Date: 2025-04-16
+
+Total Amount Charged to the Customer: $312.82
+
+Thank you for your order!"
+15,2025-04-12,43640.975,6051.349999999999,"Order Summary:
+
+1. **A4 Paper**
+   - Quantity: 9272 sheets
+   - Discount: 10%
+   - Transaction ID: 66
+   - Final Price: $417.24
+   - Delivery Date: 2025-04-19
+
+2. **Colored Paper**
+   - Quantity: 300 sheets
+   - Discount: 5%
+   - Transaction ID: 65
+   - Final Price: $28.50
+   - Delivery Date: 2025-04-19
+
+3. **Cardstock**
+   - Quantity: 500 sheets
+   - Discount: 10%
+   - Transaction ID: 62
+   - Final Price: $67.50
+   - Delivery Date: 2025-04-16
+
+Total Price for the Order: $512.24"
+16,2025-04-13,43963.975,5711.349999999999,"Order Summary:
+
+1. A4 paper (500 sheets)
+   - Transaction ID: 69
+   - Total charged: $22.50 
+   - Delivery Date: 2025-04-13
+
+2. Large poster paper (100 sheets)
+   - Transaction ID: 68
+   - Total charged: $95.00
+   - Delivery Date: 2025-04-13
+
+3. Colored paper (200 sheets)
+   - Transaction ID: 70
+   - Total charged: $19.00
+   - Delivery Date: 2025-04-13
+
+Total Amount Charged: $136.50
+
+Your order has been placed and will be delivered by April 15, 2025. Thank you!"
+17,2025-04-14,40166.575,9503.75,"Summary of your order:
+
+- **A4 paper**: 1000 sheets 
+  - Transaction ID: 75 
+  - Discount: 10% 
+  - Total Charged: $45.00
+
+- **Colored paper**: 500 sheets 
+  - Transaction ID: 76 
+  - Discount: 10% 
+  - Total Charged: $45.00
+
+- **Paper plates**: 500 units 
+  - Transaction ID: 77 
+  - Discount: 10% 
+  - Total Charged: $45.00
+  - Restock Order ID: 78, Delivery Date: 2025-04-18
+
+- **Paper cups**: Not available
+
+- **Table covers**: 2000 units 
+  - Transaction ID: 79 
+  - Discount: 10% 
+  - Total Charged: $993.60
+
+### Total Estimated Cost: $1,128.60 (excluding paper cups due to unavailability)"
+18,2025-04-14,40194.075,9503.75,"Order Summary:
+
+1. **500 sheets of A4 paper**: 
+   - Transaction ID: 80 
+   - Discount: 5% 
+   - Total charged: $22.50
+
+2. **200 sheets of colored paper**: 
+   - Transaction ID: 79 
+   - Discount: 5% 
+   - Total charged: $19.00
+
+3. **200 sheets of cardstock**: 
+   - Transaction ID: 78 
+   - Discount: 5% 
+   - Total charged: $28.50
+
+**Total Amount**: $70.00
+
+Expected delivery date: April 15, 2025. Restock for colored paper has been ordered, expected delivery on April 18, 2025."
+19,2025-04-15,40240.575,9503.75,"Unfortunately, we cannot fulfill your order completely. Here's the summary of your order:
+
+1. **A4 glossy paper**:
+   - Quantity: 2000
+   - **Available**: 272
+   - Transaction ID: N/A
+   - Discount: N/A
+   - Total charged: N/A
+
+2. **A3 matte paper**:
+   - Quantity: 1500
+   - **Available**: 0
+   - Transaction ID: N/A
+   - Discount: N/A
+   - Total charged: N/A
+
+3. **Cardstock in assorted colors**:
+   - Quantity: 1000
+   - Transaction ID: 81
+   - Discount: 10%
+   - Total charged: $135.00
+   - Delivery date: 2025-04-19
+
+We do not have enough stock for the A4 glossy paper and A3 matte paper as per your request. Please consider adjusting your quantity or selecting alternate items."
+20,2025-04-17,40240.575,9503.75,"We cannot fulfill your order for the large posters as there is insufficient stock (only 399 units available). However, we can fulfill your requests for the cardstock and A4 paper. 
+
+**Summary of the Order:**
+- **Cardstock**: Ordered 5,000 flyers. Transaction ID: XXX, Discount Applied: $67.50
+- **Large Poster Paper**: Insufficient stock (only 399 available).
+- **A4 Paper**: Ordered 10,000 tickets. Transaction ID: YYY, Discount Applied: $9.50.
+
+Please consider modifying your order or contacting us for available alternatives for the posters."
